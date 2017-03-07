@@ -1,0 +1,10 @@
+class OnetoOneHundred {
+    public static void main (String[] arguments){
+         int count;
+         
+        for(count = 1; count <= 99;count++)
+         //counts starting from 1 to 100 consecutively by 1                       
+        System.out.print( count+",");
+        System.out.print(100);
+    }
+}
